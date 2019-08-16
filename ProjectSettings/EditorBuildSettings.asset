@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Giri\u015FMen\xFC.unity"
+    guid: 5abdc2a202e6c4b41976e68c62ace737
+  - enabled: 1
+    path: "Assets/Scenes/E\u011FitimMen\xFCsi.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/S\u0131navMen\xFCs\xFC.unity"
+    guid: 40096fef7cf89bf4e98bdde8f65de6d2
+  - enabled: 1
+    path: Assets/Scenes/AnimalEgitim.unity
+    guid: 60d27dadf09cf5844b0968fff1847764
+  - enabled: 1
+    path: Assets/Scenes/AnimTest.unity
+    guid: 2f3b72993bbdd70479bdc2ecad8824b1
+  - enabled: 1
+    path: Assets/Scenes/ColorEgitim.unity
+    guid: 3c20f7056a5db1c42b2ddcb917d968a1
+  - enabled: 1
+    path: Assets/Scenes/ColorTest.unity
+    guid: d43d772518f35af439af7674036154a0
+  - enabled: 1
+    path: Assets/Scenes/JobTest.unity
+    guid: 3cebb46d4735f3643a3688c438ac044e
+  - enabled: 1
+    path: Assets/Scenes/JobsEgitim.unity
+    guid: 1f1c7919fc2d71e498e904609364ec2a
+  m_configObjects: {}
